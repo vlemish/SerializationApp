@@ -16,4 +16,4 @@
 </div>
 <h2>Example of use</h2>
 <p>Look at the gif below, i guess the example is straightforward and doesn't need any additional comments.</p>
-<img src="https://github.com/vlemish/SerializationApp/imgs/serialization-deserialization-example.gif" alt="Example of serialization and deserialization" width="959" height="480">
+<img src="https://github.com/vlemish/SerializationApp/blob/master/imgs/serialization-deserialization-example.gif" alt="Example of serialization and deserialization" width="959" height="480">

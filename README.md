@@ -15,5 +15,5 @@
 <p>To deserialize a structure you need to provide three args - a type, an operation (des) and the file that contains serialized structure</p>
 </div>
 <h2>Example of use</h2>
-<p>Look at the gif below, i guess the example is straightforward and doesn't need any additional comments.</p>
+<p>Look at the gif below, I guess the example is straightforward and doesn't need any additional comments.</p>
 <img src="https://github.com/vlemish/SerializationApp/blob/master/imgs/serialization-deserialization-example.gif" alt="Example of serialization and deserialization" width="959" height="480">
